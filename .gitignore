@@ -1,6 +1,9 @@
 #忽略index.css这个文件
 gitTest.css
 
+#忽略index.css这个文件
+ignore.html
+
 #忽略任何目录下名为test的文件夹
 test/
 
